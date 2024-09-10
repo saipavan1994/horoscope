@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json.schemastore.org/nest-cli",
+  "$schema": "https://json.schemastore.org/nest-climate",
   "collection": "@nestjs/schematics",
   "sourceRoot": "src",
   "compilerOptions": {
